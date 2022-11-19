@@ -62,3 +62,6 @@ http://nextv-chile.xyz:2080/diego2022/diego2022/58736
 
 #EXTINF:-1 group-title="Uruguay" tvg-logo="https://images.app.goo.gl/jKg2r5GS5Db1xTLP7",UY: Canal 8 Durazno
 http://nextv-chile.xyz:2080/diego2022/diego2022/58744
+
+#EXTINF:-1 group-title="Uruguay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/VTV_Uruguay_2003.png/revision/latest?cb=20171117152726" ,UY: VTV
+http://tv-cool.com:25461/live/siriao/79c492e55d/29929.ts
