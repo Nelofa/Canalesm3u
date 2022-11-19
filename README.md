@@ -55,7 +55,7 @@ http://iptvtree.net:8080/86488e81/5e48c38fdd/296875
 http://iptvtree.net:8080/86488e81/5e48c38fdd/148685
 
 #EXTINF:-1 group-title="Uruguay" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3b5039ea5e0d2425aaf266130b1d497b.png",UY: VTV Plus
-http://iptvtree.net:8080/86488e81/5e48c38fdd/8659
+http://nextv-chile.xyz:2080/diego2022/diego2022/58730
 
 #EXTINF:-1 group-title="Uruguay" tvg-logo="https://images.app.goo.gl/hUBx1UWuVGeX7aai9",UY: A+V
 http://nextv-chile.xyz:2080/diego2022/diego2022/58736
